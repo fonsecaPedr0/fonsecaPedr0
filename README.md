@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Hoje trabalho como suporte tecnico
+- 🔭 Hoje trabalho como estagiario de desenvolvimento
 - 🌱 Atualmente estou estudando programação
 
 <div>
